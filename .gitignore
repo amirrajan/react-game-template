@@ -1,0 +1,7 @@
+*~
+node_modules
+.DS_Store
+/canopy-repl/.#CanopyRepl.fsx
+npm-debug.log
+*#*
+*tern*

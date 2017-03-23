@@ -1,0 +1,11 @@
+{
+  "name": "React Game",
+  "description": "Starting point for building html games (no canvas).",
+  "keywords": ["gamedev" ],
+  "repository": "https://github.com/amirrajan/react-game-template",
+  "website": "https://github.com/amirrajan/react-game-template",
+  "success_url": "/",
+  "env" : {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+  }
+}

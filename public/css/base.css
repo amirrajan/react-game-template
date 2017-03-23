@@ -1,0 +1,50 @@
+body {
+  font-family: monospace;
+  font-size: 12px;
+}
+
+.currentlyFocused {
+  background-color: #EEFFEE;
+  display: inline-block;
+  width: 80%;
+}
+
+li {
+  padding: 3px;
+}
+
+ul {
+  padding-left: 15px;
+  list-style-position: inside;
+}
+
+textarea {
+  border: none;
+  font-family: monospace;
+  font-size: 12px;
+  padding: 0 0;
+  width: 80%
+}
+
+code {
+  background-color: #DDDDEE;
+  padding: 3px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+  background-image: -moz-linear-gradient(left, #ccc, #333, #ccc);
+  background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
+  background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
+}
+
+input {
+  border: none;
+  font-family: monospace;
+  font-size: 12px;
+  padding: 0 0;
+  width: 80%
+}
